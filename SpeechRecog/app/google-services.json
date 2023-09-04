@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366525961279",
+    "project_id": "speechrecog-ecb9a",
+    "storage_bucket": "speechrecog-ecb9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366525961279:android:cd449ff1467d524047548a",
+        "android_client_info": {
+          "package_name": "com.example.speechrecog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366525961279-qgv2rs5aif64ch44roa1dlvckonul7tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJixzRbW0wbF3sPc5qwAPrKO8rnx625m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366525961279-qgv2rs5aif64ch44roa1dlvckonul7tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
